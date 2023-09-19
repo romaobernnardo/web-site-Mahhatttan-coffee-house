@@ -1,4 +1,4 @@
-# web-site-Mahhatttan-coffee-house
+# Web-Site Mahhatttan Coffee-House
 
 Este projeto tem como objetivo criar um site simples utilizando as tecnologias HTML e CSS. O projeto permitirá que você aplique os seguintes conceitos e técnicas:
 
@@ -36,10 +36,26 @@ O layout do projeto pode ser visualizado na **Figura 1** (que pode ser inserida 
 
 ## Como Começar:
 
-1. **Clonagem do Repositório:** Clone este repositório em seu ambiente de desenvolvimento local:
+## Como Executar o Projeto HTML e CSS
 
-   ```bash
-   git clone https://github.com/seu-nome/seu-projeto.git
+Siga estas instruções para executar o projeto em sua própria máquina após clonar o repositório.
+
+## Requisitos Prévios
+
+Certifique-se de que você tenha o Git instalado em sua máquina. Se não, siga as [instruções de instalação do Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) para o seu sistema operacional.
+
+## Clonar o Repositório
+
+Use o seguinte comando para clonar o repositório para sua máquina:
+
+```
+git clone https://github.com/seu-nome/seu-projeto.git
+```
+
+## Executar o Projeto
+
+Se este for um projeto HTML e CSS simples, você pode executá-lo abrindo o arquivo index.html em um navegador da web. Não é necessário configurar um servidor web para isso.
+
 
 ## Contribuir para o Projeto
 
