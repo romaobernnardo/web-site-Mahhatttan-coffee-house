@@ -32,7 +32,7 @@ O projeto que será desenvolvido tem características distintas que destacam sua
 
 O layout do projeto pode ser visualizado na **Figura 1** (que pode ser inserida aqui) para que você tenha uma ideia clara do design final a ser alcançado.
 
-<img src="./img/fig1.png" alt="Layout da página" width="250">
+<img src="./img/fig1.png" alt="Layout da página" >
 
 ## Como Começar:
 
